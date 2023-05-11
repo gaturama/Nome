@@ -1,0 +1,15 @@
+C:\Users\gabriel.oliveira20\Documents\Nome\Nome\bin\Debug\net7.0-windows\Nome.exe
+C:\Users\gabriel.oliveira20\Documents\Nome\Nome\bin\Debug\net7.0-windows\Nome.deps.json
+C:\Users\gabriel.oliveira20\Documents\Nome\Nome\bin\Debug\net7.0-windows\Nome.runtimeconfig.json
+C:\Users\gabriel.oliveira20\Documents\Nome\Nome\bin\Debug\net7.0-windows\Nome.dll
+C:\Users\gabriel.oliveira20\Documents\Nome\Nome\bin\Debug\net7.0-windows\Nome.pdb
+C:\Users\gabriel.oliveira20\Documents\Nome\Nome\obj\Debug\net7.0-windows\Nome.csproj.AssemblyReference.cache
+C:\Users\gabriel.oliveira20\Documents\Nome\Nome\obj\Debug\net7.0-windows\Nome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.oliveira20\Documents\Nome\Nome\obj\Debug\net7.0-windows\Nome.AssemblyInfoInputs.cache
+C:\Users\gabriel.oliveira20\Documents\Nome\Nome\obj\Debug\net7.0-windows\Nome.AssemblyInfo.cs
+C:\Users\gabriel.oliveira20\Documents\Nome\Nome\obj\Debug\net7.0-windows\Nome.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.oliveira20\Documents\Nome\Nome\obj\Debug\net7.0-windows\Nome.dll
+C:\Users\gabriel.oliveira20\Documents\Nome\Nome\obj\Debug\net7.0-windows\refint\Nome.dll
+C:\Users\gabriel.oliveira20\Documents\Nome\Nome\obj\Debug\net7.0-windows\Nome.pdb
+C:\Users\gabriel.oliveira20\Documents\Nome\Nome\obj\Debug\net7.0-windows\Nome.genruntimeconfig.cache
+C:\Users\gabriel.oliveira20\Documents\Nome\Nome\obj\Debug\net7.0-windows\ref\Nome.dll
