@@ -25,7 +25,7 @@ namespace Nome
             botao.Text = "Olá";
             botao.Location = new Point(100, 110);
             botao.Size = new Size(150, 30);
-            botao.Click += (sender, e) => MessageBox.Show($"Olá, {(txtNome.Text)}");
+            botao.Click += (sender, e) => MessageBox.Show($"Olá, {(txtNome.Text)}!");
 
             Button fechar = new Button();
             fechar.Text = "Fechar";
