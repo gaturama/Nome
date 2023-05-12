@@ -7,8 +7,9 @@ namespace Nome
         public static void Main()
         {
             Form tela = new Form();
-            tela.Text = "";
+            tela.Text = "Pessoa";
             tela.Size = new System.Drawing.Size(300, 250);
+            tela.Icon = new System.Drawing.Icon("Assets/iconCliente.ico");
 
             Label lblNome = new Label();
             lblNome.Text = "Seu nome:";
